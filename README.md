@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, AWS, Javascript**
 
-- 💥 I am SCRUM PSM1 and AWS Cloud Practioner Certified.
+- 💥 I hold certifications for SCRUM PSM1, AWS Cloud Practioner Certified, AWS Cloud Economics, AWS Accreditation Technical [Certifications Part 1](https://www.credly.com/users/tashinga-musanhu/badges). [Certifications Part 2](https://www.credly.com/users/tashinga-musanhu.87b61dd7).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
