@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tashsub&label=Profile%20views&color=0e75b6&style=flat" alt="tashsub" /> </p>
 
-- 🔭 I’m currently working on [Login System for one of my side projects](https://github.com/Tashsub/to-do-app/tree/main/to-do-app/backend)
+- 🔭 I’m currently working on [Login System for one of my side projects](https://github.com/Tashsub/to-do-app)
 
 - 🌱 I’m currently learning **.Net and C#**
 
