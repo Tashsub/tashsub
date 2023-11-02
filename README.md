@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tashsub](https://github.com/Tashsub)
 
-- 📝 I regularly write articles on [https://portfolio-5acpu.ondigitalocean.app/](https://portfolio-5acpu.ondigitalocean.app/)
-
 - 💬 Ask me about **React, AWS, Javascript**
 
 - 💥 I hold certifications for SCRUM PSM1, AWS Cloud Practioner Certified, AWS Cloud Economics, AWS Accreditation Technical.  [Certifications Part 1](https://www.credly.com/users/tashinga-musanhu/badges) and  [Certifications Part 2](https://www.credly.com/users/tashinga-musanhu.87b61dd7).
