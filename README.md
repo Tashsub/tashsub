@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tashsub&label=Profile%20views&color=0e75b6&style=flat" alt="tashsub" /> </p>
 
-- 🌱 I’m currently learning **.Net, C# and Advanced React**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Tashsub](https://github.com/Tashsub)
 
 - 💬 Ask me about **React, AWS, Javascript**
