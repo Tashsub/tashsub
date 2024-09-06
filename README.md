@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tash</h1>
 <h3 align="center">The learning continues...</h3>
-<img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fn8agw6z2smyb1.gif" alt=“coding width=“400” height="400">
+<img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt=“coding width=“400” height="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tashsub&label=Profile%20views&color=0e75b6&style=flat" alt="tashsub" /> </p>
 
