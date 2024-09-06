@@ -2,8 +2,6 @@
 <h3 align="center">The learning continues...</h3>
 <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt=“coding width=“400” height="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tashsub&label=Profile%20views&color=0e75b6&style=flat" alt="tashsub" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/Tashsub](https://github.com/Tashsub)
 
 - 💬 Ask me about **React, AWS, Javascript**
